@@ -1,5 +1,6 @@
 # JSON
-Archivos .json utilices para proyectos y prácticas educativas
+Archivos .json utilices para proyectos y prácticas educativas. Se incentiva a las personas que utilicen estos archivos que si encuentran algún error se reporte para corregirla.
 
-## Creditos a:
--El usuario de Github josuenoel y su archivo provincias_cantones_distritos_costa_rica.json del cual se baso este archivo .json
+## Créditos a:
+- Las diferentes personas que se mencionan en los commits ya que los archivos se basan en la de los autores originales y personas que aportaron para la corroboración de la data. 
+
